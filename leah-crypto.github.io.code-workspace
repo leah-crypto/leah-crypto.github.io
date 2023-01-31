@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"name": "leah-crypto.github.io",
+		"path": "."
+	},
+	{
+		"name": "images",
+		"path": "../test/images"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "leah-crypto.github.io",
+    "liveServer.settings.port": 5501
+  }
+}
